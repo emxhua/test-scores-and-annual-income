@@ -2,8 +2,13 @@
 Econometric research based on student household income to determine predisposition or susceptibility onto test scores
 
 ## Descriptive Variables
-* region - 1 = northeast, 2 = midwest, 3 = south, 4 = west
-* gender = 1 = male, 2 = female
+
+| Variable Name  | Description |
+| ------------- |:-------------:|
+| region      | 1 = northeast, 2 = midwest, 3 = south, 4 = west     |
+|gender|1 = male, 2 = female|
+
+
 * race = 1 = white, 2 = black, 3 = hispanic, 4 = other
 * bmi = body mass index, kilograms/meter-squared
 * mom_educ - 1 = 1-8 yrs, 2 = 9-11 yrs, 3 = 12 yrs, 4 = some college, 5 = college
